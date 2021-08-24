@@ -1,0 +1,2 @@
+Total number of users with atleast 20 friends:  413
+Total ad cost:  41300  INR
